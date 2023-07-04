@@ -20,7 +20,8 @@ git push -u origin main
 import random
 
 # Intro
-print("Welcome to Dan's number guessing game!\n")
+print("Welc![image](https://github.com/Nitish2222/Nitish2222/assets/116637683/a919370d-9eea-420b-8861-0c1c87e045ba)
+ome to Dan's number guessing game!\n")
 
 # Define variables
 guesses = 0
