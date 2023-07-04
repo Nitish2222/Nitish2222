@@ -16,12 +16,12 @@ git branch -M main
 git remote add origin https://github.com/Nitish2222/Python-intern-at-internspedia-.git
 git push -u origin main
 
+![image](https://github.com/Nitish2222/Nitish2222/assets/116637683/5a1862e0-4819-46cf-8b3b-55d66fb931cb)
 
 import random
 
 # Intro
-print("Welc![image](https://github.com/Nitish2222/Nitish2222/assets/116637683/a919370d-9eea-420b-8861-0c1c87e045ba)
-ome to Dan's number guessing game!\n")
+print("Welcome to Dan's number guessing game!\n")
 
 # Define variables
 guesses = 0
